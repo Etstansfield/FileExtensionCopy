@@ -1,0 +1,16 @@
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\FileExtensionCopy.exe
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\FileExtensionCopy.deps.json
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\FileExtensionCopy.runtimeconfig.json
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\FileExtensionCopy.runtimeconfig.dev.json
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\FileExtensionCopy.dll
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\ref\FileExtensionCopy.dll
+C:\Users\Edward\source\repos\FileExtensionCopy\bin\Debug\net5.0\FileExtensionCopy.pdb
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.AssemblyInfoInputs.cache
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.AssemblyInfo.cs
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.dll
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\ref\FileExtensionCopy.dll
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.pdb
+C:\Users\Edward\source\repos\FileExtensionCopy\obj\Debug\net5.0\FileExtensionCopy.genruntimeconfig.cache
